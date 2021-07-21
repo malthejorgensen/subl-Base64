@@ -1,0 +1,26 @@
+[
+    {
+        "id": "preferences",
+        "children": [
+            {
+                "id": "package-settings",
+                "children": [
+                    {
+                        "caption": "Base64",
+                        "children": [
+                            {
+                              "caption": "Base64: Encode",
+                              "command": "base64_encode"
+                            },
+                            {
+                              "caption": "Base64: Decode",
+                              "command": "base64_decode"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+
+]
